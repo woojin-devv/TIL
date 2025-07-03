@@ -1,4 +1,7 @@
 # 🍋 TIL
+<p align="center">
+  <img src="XOsX (1)-1.gif" width="150">
+</p>
 
 ## 💭 Flutter
 

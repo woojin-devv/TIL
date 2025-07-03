@@ -24,8 +24,6 @@
 - [Riverpod 개요](flutter/riverpod/riverpod_overview.md): 상태 관리를 위한 Riverpod 기초
 
 
----
-
 ## 💭 CS
 
 ### | 네트워크
@@ -34,7 +32,7 @@
 
 ### | 데이터베이스 
 - [ERD 그리는 tool :: dbdiagram.io ](CS/dbml.md)
----
+
 
 ## 💭 APS (Algorithm Problem Solving)
 ####  비교과 | 코테 준비 특강
@@ -53,7 +51,7 @@
 #### stack/queue
 - [올바른괄호](APS/level2/올바른괄호.py)
 
----
+
 
 ## 💭 기타 학습 내용
 
@@ -62,7 +60,7 @@
 - [Figma MCP Plugin](https://velog.io/@woojin-devv/Figma-MCP-Plugin-Cursor-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95): Mac에서 MCP와 Cursor 설치법  
 - [ChatGPT Prompt 정리 #1](https://velog.io/@woojin-devv/Medium-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-15%EA%B0%80%EC%A7%80-ChatGPT-Prompts-%EC%A0%95%EB%A6%AC-1)
 
----
+
 
 ### | 웹 크롤링 & 스크래핑 스터디
 

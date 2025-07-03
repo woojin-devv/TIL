@@ -46,6 +46,7 @@
 
 #### ✏️ Level 1
 - [약수의 합](APS/PCCE기출문제/6번_물부족(O).py): 연산자 활용 (`//`, `%`)
+- [숫자 짝궁](APS/level1/숫자짝궁.py) : counter 예제
 
 #### ✏️  Level 2
 - stack/queue

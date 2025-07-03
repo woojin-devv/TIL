@@ -1,6 +1,6 @@
 # 🍋 TIL
 <p align="center">
-  <img src="XOsX (1)-1.gif" width="150">
+  <img src="flutter/dart/images/XOsX (1)-1.gif" width="150">
 </p>
 
 ## 💭 Flutter
@@ -35,21 +35,21 @@
 
 
 ## 💭 APS (Algorithm Problem Solving)
-####  비교과 | 코테 준비 특강
+#### ✏️  비교과 | 코테 준비 특강
 - [1일차 - 알고리즘이란?](APS/1일차/array1.md)
 - [2일차 - 정렬](APS/2일차/2일차정리.md)
     - [과제1 : Gravity](APS/2일차/gravity.py)
     - [과제2 : ]()
-####  프로그래머스 PCCE 기출문제
+#### ✏️  프로그래머스 PCCE 기출문제
 - [4번 - 저축](APS/PCCE기출문제/4번_저축(O).py)
 - [6번 - 물부족](APS/PCCE기출문제/6번_물부족(O).py)
 
-#### Level 1
+#### ✏️ Level 1
 - [약수의 합](APS/PCCE기출문제/6번_물부족(O).py): 연산자 활용 (`//`, `%`)
 
-#### Level 2
-#### stack/queue
-- [올바른괄호](APS/level2/올바른괄호.py)
+#### ✏️  Level 2
+- stack/queue
+    - [올바른괄호](APS/level2/올바른괄호.py)
 
 
 

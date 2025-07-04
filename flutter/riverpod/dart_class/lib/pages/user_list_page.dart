@@ -1,6 +1,7 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
 import 'package:dart_class/models/person.dart';
 import 'package:dart_class/models/user.dart';
+import 'package:dart_class/pages/user_details_page.dart';
 import 'package:dart_class/repositories/fetch_user.dart';
 import 'package:flutter/material.dart';
 
@@ -41,7 +42,7 @@ class _UserListPageState extends State<UserListPage> {
       appBar: AppBar(title: Text('Users')),
       body:
           loading
-              ? const Center()
+              ? const Center(child: CircularProgressIndicator())
               : error.isEmpty
               ? ListUsers(users: users)
               : buildError(),
@@ -78,6 +79,12 @@ class ListUsers extends StatelessWidget {
       itemBuilder: (BuildContext context, int index) {
         final user = users[index];
         return ListTile(
+          onTap:
+              () => Navigator.of(context).push(
+                MaterialPageRoute(
+                  builder: (context) => UserDetailsPage(user: user),
+                ),
+              ),
           leading: CircleAvatar(child: Text(user.id.toString())),
           title: Text(user.name),
         );

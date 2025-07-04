@@ -1,4 +1,5 @@
 import 'package:dart_class/pages/person_page.dart';
+import 'package:dart_class/pages/user_list_page.dart';
 import 'package:dart_class/widgets/custom_button.dart';
 import 'package:flutter/material.dart';
 
@@ -16,6 +17,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        useMaterial3: true,
+        textTheme: TextTheme(bodyMedium: TextStyle(fontSize: 18)),
       ),
       home: const MyHomePage(),
     );
@@ -31,7 +34,10 @@ class MyHomePage extends StatelessWidget {
       body: Center(
         child: ListView(
           shrinkWrap: true,
-          children: [CustomButton(title: 'Person', child: PersonPage())],
+          children: [
+            CustomButton(title: 'Person', child: PersonPage()),
+            CustomButton(title: 'Users', child: UserListPage()),
+          ],
         ),
       ),
     );

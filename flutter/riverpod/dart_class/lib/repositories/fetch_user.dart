@@ -4,6 +4,7 @@ import 'package:dio/dio.dart';
 
 Future<List<User>> fetchUsers() async {
   try {
+    await Future.delayed(Duration(seconds: 1));
     final Response response = await Dio().get(
       'https://jsonplaceholder.typicode.com/users',
     );

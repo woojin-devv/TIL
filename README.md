@@ -21,10 +21,10 @@
 - [직렬화/역직렬화](flutter/dart/dart2.md): JSON ↔ Model 변환 처리 방법 | Dart Data Class Generator 활용
 
 #### ✏️ Riverpod
-- [Riverpod overview](flutter/riverpod/riverpod_overview.md): 상태 관리를 위한 Riverpod 기초
+- [Riverpod overview](flutter/riverpod_study/riverpod_overview.md): 상태 관리를 위한 Riverpod 기초
 
 #### ✏️ freezed
-- [freezed overview](flutter/riverpod/freezed_overview.md)
+- [freezed overview](flutter/freezed_study/freezed_overview.md)
 
 ## 💭 CS
 

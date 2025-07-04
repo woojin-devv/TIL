@@ -21,8 +21,10 @@
 - [직렬화/역직렬화](flutter/dart/dart2.md): JSON ↔ Model 변환 처리 방법 | Dart Data Class Generator 활용
 
 #### ✏️ Riverpod
-- [Riverpod 개요](flutter/riverpod/riverpod_overview.md): 상태 관리를 위한 Riverpod 기초
+- [Riverpod overview](flutter/riverpod/riverpod_overview.md): 상태 관리를 위한 Riverpod 기초
 
+#### ✏️ freezed
+- [freezed overview](flutter/riverpod/freezed_overview.md)
 
 ## 💭 CS
 
@@ -43,7 +45,7 @@
 #### ✏️  프로그래머스 PCCE 기출문제
 - [4번 - 저축](APS/PCCE기출문제/4번_저축(O).py)
 - [6번 - 물부족](APS/PCCE기출문제/6번_물부족(O).py)
-
+    
 #### ✏️ Level 1
 - [약수의 합](APS/PCCE기출문제/6번_물부족(O).py): 연산자 활용 (`//`, `%`)
 - [숫자 짝궁](APS/level1/숫자짝궁.py) : counter 예제

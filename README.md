@@ -51,8 +51,11 @@
 - [숫자 짝궁](APS/level1/숫자짝궁.py) : counter 예제
 
 #### ✏️  Level 2
-- stack/queue
+- stack/queue 
     - [올바른괄호](APS/level2/올바른괄호.py)
+    - [짝지어제거](APS/level2/짝지어제거하기.py)
+    - [주식가격](APS/level2/주식가격.py)
+    
 
 
 

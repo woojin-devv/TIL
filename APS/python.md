@@ -55,3 +55,11 @@ str.split()
 #['Welcome', 'to', 'Python', 'World']
 ```
 
+### 6.1. split()과 split(" ")의 차이점 
+```python
+str = " Welcom to Python World "
+str.split()
+#['Welcome', 'to', 'Python', 'World']
+str.split(" ") 
+#[' ','Welcome', 'to', 'Python', 'World',' ']
+```

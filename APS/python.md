@@ -35,3 +35,23 @@ map(function, iterable)
 ### 4.1 Type error
 > TypeError: 'NoneType' object is not iterable
 - for 루프나 리스트 언팩킹 등에서 None 값을 반복하려고 할 때 발생
+
+## 5. list가 비어있는지 확인 
+```python 
+stack = []
+print(not stack)
+>> True
+
+stack = [1, 2, 3]
+print(not stack)
+>> False
+```
+
+## 6. split()
+```python
+str = "Welcome to Python World"
+
+str.split()
+#['Welcome', 'to', 'Python', 'World']
+```
+

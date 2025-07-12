@@ -29,7 +29,6 @@
 ## 💭 CS
 
 ### | 네트워크
-
 - [REST API 정리](CS/api.md): REST, RESTful, REST API 개념  
 
 ### | 데이터베이스 
@@ -37,12 +36,15 @@
 
 
 ## 💭 APS (Algorithm Problem Solving)
+#### ✏️ python 자료구조 
+- [해시](APS/python_hash.md)
+
 #### ✏️  비교과 | 코테 준비 특강
 - [1일차 - 알고리즘이란?](APS/1일차/array1.md)
 - [2일차 - 정렬](APS/2일차/2일차정리.md)
     - [과제1 : Gravity](APS/2일차/gravity.py)
     - [과제2 : ]()
-#### ✏️  프로그래머스 PCCE 기출문제
+#### ✏️ 프로그래머스 PCCE 기출문제
 - [4번 - 저축](APS/PCCE기출문제/4번_저축(O).py)
 - [6번 - 물부족](APS/PCCE기출문제/6번_물부족(O).py)
     
@@ -50,14 +52,14 @@
 - [약수의 합](APS/PCCE기출문제/6번_물부족(O).py): 연산자 활용 (`//`, `%`)
 - [숫자 짝궁](APS/level1/숫자짝궁.py) : counter 예제
 
-#### ✏️  Level 2
+#### ✏️ Level 2
+- 구현
+    - [JadenCase 문자열 만들기](APS/level2/jadencase.py)
 - stack/queue 
     - [올바른괄호](APS/level2/올바른괄호.py)
     - [짝지어제거](APS/level2/짝지어제거하기.py)
     - [주식가격](APS/level2/주식가격.py)
     
-
-
 
 ## 💭 기타 학습 내용
 

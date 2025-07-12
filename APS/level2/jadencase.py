@@ -35,7 +35,7 @@ def solution(s):
 
 #test case1
 print(solution("3people unFollowed me"))
-print(solution(" for the last week "))
+print(solution(" for the last week ")) #공백 반례
 
 #[try 1] 
 # def solution(s):

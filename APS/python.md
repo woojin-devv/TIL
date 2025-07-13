@@ -63,3 +63,17 @@ str.split()
 str.split(" ") 
 #[' ','Welcome', 'to', 'Python', 'World',' ']
 ```
+
+## 7. zip() 함수 
+> - `zip()`은 두 개의 리스트를 서로 묶어줄 때 사용한다. 
+> --- 
+> ### 예시
+>```python
+> name = ['merona', 'gugucon']
+> price = [500, 1000]
+>
+> z = zip(name, price)
+> print(list(z))
+> # [('merona', 500), ('gugucon', 1000)]
+>```
+> 

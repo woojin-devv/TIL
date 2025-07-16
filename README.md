@@ -61,7 +61,8 @@
     - [올바른괄호](APS/level2/올바른괄호.py)
     - [짝지어제거](APS/level2/짝지어제거하기.py)
     - [주식가격](APS/level2/주식가격.py)
-    
+- 탐욕 기법(Greedy)
+    - [구명보트](https://velog.io/@woojin-devv/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8)
 
 ## 💭 기타 학습 내용
 

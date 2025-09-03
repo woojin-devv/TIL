@@ -29,6 +29,8 @@
 - [freezed overview](flutter/freezed_study/freezed_overview.md)
 
 ## 💭 CS
+### | System Security 
+- [The big picture of hacking](CS/system_security/hacking_intro.md)
 
 ### | 네트워크
 - [REST API 정리](CS/api.md): REST, RESTful, REST API 개념  

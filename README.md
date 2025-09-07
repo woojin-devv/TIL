@@ -32,6 +32,9 @@
 ### | System Security 
 - [The big picture of hacking](CS/system_security/hacking_intro.md)
 
+### | OS
+- [ch_1 computer system overview 1/3](CS/os/ch_1_computer_system_overview_1.md)
+
 ### | 네트워크
 - [REST API 정리](CS/api.md): REST, RESTful, REST API 개념  
 - [multipart/form-data](CS/network/multipart_form_data.md) : multipart/form-data 개념 정리 

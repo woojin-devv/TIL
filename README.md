@@ -34,6 +34,7 @@
 
 ### | OS
 - [ch_1 computer system overview 1/3](CS/os/ch_1_computer_system_overview_1.md)
+- [ch_1 computer system overview 2/3 | interrupt](CS/os/ch_1_interrupt.md)
 
 ### | 네트워크
 - [REST API 정리](CS/api.md): REST, RESTful, REST API 개념  

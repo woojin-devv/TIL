@@ -34,8 +34,9 @@
 
 ### | OS
 - [ch_1 computer system overview 1/3](CS/os/ch_1_computer_system_overview_1.md)
-- [ch_1 computer system overview 2/3 | interrupt](CS/os/ch_1_interrupt.md)
-- [ch_1 computer system overview 2/3 | cache ](CS/os/ch_1_cache.md)
+    - [interrupt](CS/os/ch_1_interrupt.md)
+    - [cache ](CS/os/ch_1_cache.md)
+- [ch_2 OS Overview](CS/os/ch_2_os_overview.md)
 
 
 ### | 네트워크
